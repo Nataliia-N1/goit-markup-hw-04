@@ -486,6 +486,9 @@ button {
 .container-footer-container {
   display: flex;
   align-items: baseline;
+  max-width: 1128px;
+  padding: 0 15px;
+  margin: 0 auto;
 }
 .footer-wrapper-left {
   margin-right: 120px;
